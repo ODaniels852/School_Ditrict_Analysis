@@ -61,7 +61,8 @@ Although, the passing percentages for the school all lowered slightly, after thi
 
 	- **Scores by school spending.**
 	As shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school spending remain unchanged.
- 
+ 	
+ 	<sub>Scores by School Spending</sub>
 	<picture>
  	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/spending_summary_df.png">
 	<img alt=" Shows scores by school spending."/>
@@ -71,7 +72,8 @@ Although, the passing percentages for the school all lowered slightly, after thi
 
 	- **Scores by school size.**
 	Like scores by school spending, as shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school size remain unchanged.
- 
+ 	
+ 	<sub>Scores by School Size</sub>
 	<picture>
 	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/size_summary_df.png">
 	<img alt="Shows scores by school size."/>
@@ -82,7 +84,7 @@ Although, the passing percentages for the school all lowered slightly, after thi
 	- **Scores by school type.**
 	Like scores by school spending and size, as shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school type remain unchanged.
 
- 
+ 	<sub>Scores by School Type</sub>
 	<picture>
 	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/type_summary_df.png">
 	<img alt="Shows scores by school type."/>
