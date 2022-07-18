@@ -41,53 +41,52 @@ Although, the passing percentages for the school all lowered slightly, after thi
 
 - How does replacing the ninth-grade scores affect the following:
 	- Math and reading scores by grade
-As shown below, after replacing ninth-grade scores at Thomas High School the summaries of math scores by grade and reading scores by grade show Nan for 9th grade at Thomas High School. All other values remain unchanged.
+	As shown below, after replacing ninth-grade scores at Thomas High School the summaries of math scores by grade and reading scores by grade show Nan for 9th grade at Thomas High School. All other values remain unchanged.
 
-<sub>Math Scores by Grade</sub>
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/math_scores_by_grade.png">
-<img alt="Shows math scores by grade for the district."/>
+	<sub>Math Scores by Grade</sub>
+	<picture>
+ 	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/math_scores_by_grade.png">
+	<img alt="Shows math scores by grade for the district."/>
 
-</picture> 
+	</picture> 
 
 
-<sub>Reading Scores by Grade</sub>
- 
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/reading_scores_by_grade.png">
-<img alt="Shows reading scores by grade for the district."/>
+	<sub>Reading Scores by Grade</sub>
+	<picture>
+ 	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/reading_scores_by_grade.png">
+	<img alt="Shows reading scores by grade for the district."/>
 
-</picture> 
+	</picture> 
 
 
 	- Scores by school spending
-As shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school spending remain unchanged.
+	As shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school spending remain unchanged.
  
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/spending_summary_df.png">
-<img alt=" Shows scores by school spending."/>
+	<picture>
+ 	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/spending_summary_df.png">
+	<img alt=" Shows scores by school spending."/>
 
-</picture> 
+	</picture> 
 
 
 	- Scores by school size
-Like scores by school spending, as shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school size remain unchanged.
+	Like scores by school spending, as shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school size remain unchanged.
  
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/size_summary_df.png">
-<img alt="Shows scores by school size."/>
+	<picture>
+	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/size_summary_df.png">
+	<img alt="Shows scores by school size."/>
 
-</picture> 
+	</picture> 
 
 	- Scores by school type
-Like scores by school spending and size, as shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school type remain unchanged.
+	Like scores by school spending and size, as shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school type remain unchanged.
 
  
-<picture>
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/type_summary_df.png">
-<img alt="Shows scores by school type."/>
+	<picture>
+	 <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/type_summary_df.png">
+	<img alt="Shows scores by school type."/>
 
-</picture> 
+	</picture> 
 
 ##  Summary
 Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs include
