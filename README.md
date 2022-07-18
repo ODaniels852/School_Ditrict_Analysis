@@ -3,7 +3,7 @@
 ## Project Overview
 Maria, a chief data scientist for a school district, is preparing all standardized test data for analysis, reporting and presentation to provide insights about performance trends and patterns to the school board. She asked for my help in analyzing the data on student funding and student’s standardized test scores. Per her request I aggregated the data and showcased trends in school performance. 
 
-Unfortunately, after completing my analysis it was determined that due to evidence of academic dishonesty; the reading and math grades for ninth grader at one school, Thomas High School, should be ignored by replacing these scores with NaNs. Therefore, Maria has asked me to repeat the school district analysis and summarize how the requested change affected the overall analysis.
+Unfortunately, after completing my analysis it was determined that due to evidence of academic dishonesty; the reading and math scores for ninth graders at one school, Thomas High School, should be ignored by replacing these scores with NaNs. Therefore, Maria has asked me to repeat the school district analysis and summarize how the requested change affected the overall analysis.
 
 ### Results
 - How is the district summary affected?
@@ -30,7 +30,7 @@ The school summary was affected in a similar way as the district summary. Specif
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-Although, the passing percentages for the school all lowered slightly, after this change Thomas High School remained the 3rd top performing school based on Overall Passing %. This updated % of 90.630 wasn’t low enough to fall below Griffin High School’s Overall Passing % of 90.599.
+Although, the passing percentages for the school all lowered slightly, after this change Thomas High School remained the 3rd top performing school based on Overall Passing %. The updated % of 90.630 wasn’t low enough to fall below Griffin High School’s Overall Passing % of 90.599.
  
 
 <picture>
@@ -41,7 +41,7 @@ Although, the passing percentages for the school all lowered slightly, after thi
 
 - How does replacing the ninth-grade scores affect the following:
 	- **Math and reading scores by grade.**
-	As shown below, after replacing ninth-grade scores at Thomas High School the summaries of math scores by grade and reading scores by grade show Nan for 9th grade at Thomas High School. All other values remain unchanged.
+	As shown below, after replacing ninth-grade scores at Thomas High School the summaries of math scores by grade and reading scores by grade show 'nan' for 9th grade at Thomas High School. All other values remain unchanged.
 
 	<sub>Math Scores by Grade</sub>
 	<picture>
@@ -78,6 +78,7 @@ Although, the passing percentages for the school all lowered slightly, after thi
 
 	</picture> 
 
+
 	- **Scores by school type.**
 	Like scores by school spending and size, as shown below, after replacing ninth-grade scores at Thomas High School the summaries of scores by school type remain unchanged.
 
@@ -89,4 +90,4 @@ Although, the passing percentages for the school all lowered slightly, after thi
 	</picture> 
 
 ##  Summary
-Changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs include
+Changes in the updated school district analysis after the reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs include a drop in the ditrict average math score, a drop in the ditrict overall passing percentage, a drop in the average nath score at Thomas High School, and increase in the average reading score at Thomas High School, and a drop in the overal passing percentage for Thomas High School. Overall, the exclusion of ninth grade testing results didn't result in major swings in performance for Thomas High School or the district as a whole, percentage changes were very minor.  
