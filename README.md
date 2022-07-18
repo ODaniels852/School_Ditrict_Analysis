@@ -43,7 +43,7 @@ Although, the passing percentages for the school all lowered slightly, after thi
 	- Math and reading scores by grade
 As shown below, after replacing ninth-grade scores at Thomas High School the summaries of math scores by grade and reading scores by grade show Nan for 9th grade at Thomas High School. All other values remain unchanged.
 
-**Math Scores by Grade**
+<sub>Math Scores by Grade</sub>
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/math_scores_by_grade.png">
 <img alt="Shows math scores by grade for the district."/>
@@ -51,7 +51,7 @@ As shown below, after replacing ninth-grade scores at Thomas High School the sum
 </picture> 
 
 
-**Reading Scores by Grade**
+<sub>Reading Scores by Grade</sub>
  
 <picture>
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ODaniels852/School_Ditrict_Analysis/raw/main/Resources/reading_scores_by_grade.png">
